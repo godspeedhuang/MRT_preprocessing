@@ -1,0 +1,2435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4205,
+          24.96012
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL01",
+          "StationName": "頂埔",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43613,
+          24.96682
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL02",
+          "StationName": "永寧",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44432,
+          24.97313
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL03",
+          "StationName": "土城",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44873,
+          24.985305
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL04",
+          "StationName": "海山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.452465,
+          24.99828
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL05",
+          "StationName": "亞東醫院",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.459276,
+          25.008465
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL06",
+          "StationName": "府中",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.462305,
+          25.013825
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL07",
+          "StationName": "板橋",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.468055,
+          25.02327
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL08",
+          "StationName": "新埔",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47257,
+          25.030265
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL09",
+          "StationName": "江子翠",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500325,
+          25.03528
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL10",
+          "StationName": "龍山寺",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:05:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508175,
+          25.042025
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL11",
+          "StationName": "西門",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517415,
+          25.04631
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL12",
+          "StationName": "台北車站",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.523885,
+          25.04468
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL13",
+          "StationName": "善導寺",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53321,
+          25.042498
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL14",
+          "StationName": "忠孝新生",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545026,
+          25.041749
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL15",
+          "StationName": "忠孝復興",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55045,
+          25.041505
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL16",
+          "StationName": "忠孝敦化",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557815,
+          25.04137
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL17",
+          "StationName": "國父紀念館",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.565685,
+          25.041135
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL18",
+          "StationName": "市政府",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5762,
+          25.040855
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL19",
+          "StationName": "永春",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58227,
+          25.044715
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL20",
+          "StationName": "後山埤",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.593228,
+          25.050459
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL21",
+          "StationName": "昆陽",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60697,
+          25.052035
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL22",
+          "StationName": "南港",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.616861,
+          25.054919
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BL23",
+          "StationName": "南港展覽館",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:06:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54237,
+          25.033311
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR09",
+          "StationName": "大安",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543462,
+          25.02612
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR08",
+          "StationName": "科技大樓",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544215,
+          25.06085
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR12",
+          "StationName": "中山國中",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544303,
+          25.052044
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR11",
+          "StationName": "南京復興",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.545026,
+          25.041749
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR10",
+          "StationName": "忠孝復興",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55201,
+          25.062908
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR13",
+          "StationName": "松山機場",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55302,
+          25.02381
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR07",
+          "StationName": "六張犁",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.557046,
+          25.005455
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR05",
+          "StationName": "辛亥",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558092,
+          24.99932
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR04",
+          "StationName": "萬芳醫院",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.558834,
+          25.018495
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR06",
+          "StationName": "麟光",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.568088,
+          24.99857
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR03",
+          "StationName": "萬芳社區",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.573127,
+          24.99824
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR02",
+          "StationName": "木柵",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.579501,
+          24.998205
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR01",
+          "StationName": "動物園",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:07:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53746,
+          24.95761
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G01",
+          "StationName": "新店",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54679,
+          25.07943
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR14",
+          "StationName": "大直",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.555582,
+          25.08483
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR15",
+          "StationName": "劍南路",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567227,
+          25.08216
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR16",
+          "StationName": "西湖",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.57516,
+          25.08007
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR17",
+          "StationName": "港墘",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.584999,
+          25.078455
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR18",
+          "StationName": "文德",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.594363,
+          25.083675
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR19",
+          "StationName": "內湖",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.602214,
+          25.083805
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR20",
+          "StationName": "大湖公園",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.607146,
+          25.07271
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR21",
+          "StationName": "葫洲",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.611535,
+          25.067455
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR22",
+          "StationName": "東湖",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.615,
+          25.05992
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR23",
+          "StationName": "南港軟體園區",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.616861,
+          25.054919
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "BR24",
+          "StationName": "南港展覽館",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:08:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508175,
+          25.042025
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G12",
+          "StationName": "西門",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510184,
+          25.049554
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G13",
+          "StationName": "北門",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51088,
+          25.035585
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G11",
+          "StationName": "小南門",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518273,
+          25.032767
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G10",
+          "StationName": "中正紀念堂",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520364,
+          25.052621
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G14",
+          "StationName": "中山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522868,
+          25.026373
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G09",
+          "StationName": "古亭",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528143,
+          25.020733
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G08",
+          "StationName": "台電大樓",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534358,
+          25.014781
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G07",
+          "StationName": "公館",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.539008,
+          25.001978
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G06",
+          "StationName": "萬隆",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540697,
+          24.992824
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G05",
+          "StationName": "景美",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5413,
+          24.96744
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G02",
+          "StationName": "新店區公所",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54134,
+          24.98272
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G04",
+          "StationName": "大坪林",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542985,
+          24.97545
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G03",
+          "StationName": "七張",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:09:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.505114,
+          24.99392
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O02",
+          "StationName": "景安",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509237,
+          24.990065
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O01",
+          "StationName": "南勢角",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.511225,
+          25.002895
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O03",
+          "StationName": "永安市場",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515462,
+          25.013858
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O04",
+          "StationName": "頂溪",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522868,
+          25.026373
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O05",
+          "StationName": "古亭",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528766,
+          25.033894
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O06",
+          "StationName": "東門",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53058,
+          24.97188
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G03A",
+          "StationName": "小碧潭",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53285,
+          25.052693
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G15",
+          "StationName": "松江南京",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.544303,
+          25.052044
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G16",
+          "StationName": "南京復興",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552549,
+          25.05152
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G17",
+          "StationName": "台北小巨蛋",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.56471,
+          25.051588
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G18",
+          "StationName": "南京三民",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.577706,
+          25.050118
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "G19",
+          "StationName": "松山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:10:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473365,
+          25.085425
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O53",
+          "StationName": "三民高中",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.479945,
+          25.080485
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O52",
+          "StationName": "徐匯中學",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48422,
+          25.05571
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O15",
+          "StationName": "三重",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.486795,
+          25.07646
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O51",
+          "StationName": "三和國中",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.491421,
+          25.059451
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O14",
+          "StationName": "菜寮",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49701,
+          25.070275
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O50",
+          "StationName": "三重國小",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.500575,
+          25.063075
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O13",
+          "StationName": "台北橋",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.513003,
+          25.06322
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O12",
+          "StationName": "大橋頭",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519585,
+          25.06235
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O11",
+          "StationName": "民權西路",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.526609,
+          25.062665
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O10",
+          "StationName": "中山國小",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53285,
+          25.052693
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O08",
+          "StationName": "松江南京",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53315,
+          25.05924
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O09",
+          "StationName": "行天宮",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53321,
+          25.042498
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O07",
+          "StationName": "忠孝新生",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:11:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.411757,
+          25.022107
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O21",
+          "StationName": "迴龍",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.422422,
+          25.029073
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O20",
+          "StationName": "丹鳳",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.435735,
+          25.03279
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O19",
+          "StationName": "輔大",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45218,
+          25.03608
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O18",
+          "StationName": "新莊",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.460479,
+          25.039862
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O17",
+          "StationName": "頭前庄",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46471,
+          25.09152
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O54",
+          "StationName": "蘆洲",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47165,
+          25.04632
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "O16",
+          "StationName": "先嗇宮",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.536151,
+          25.033225
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R06",
+          "StationName": "大安森林公園",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54237,
+          25.033311
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R05",
+          "StationName": "大安",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552326,
+          25.033015
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R04",
+          "StationName": "信義安和",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.563667,
+          25.032865
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R03",
+          "StationName": "台北101/世貿",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.570116,
+          25.032395
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R02",
+          "StationName": "象山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:12:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515572,
+          25.114455
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R19",
+          "StationName": "石牌",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51602,
+          25.041399
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R09",
+          "StationName": "台大醫院",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517415,
+          25.04631
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R10",
+          "StationName": "台北車站",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518273,
+          25.032767
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R08",
+          "StationName": "中正紀念堂",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518785,
+          25.109815
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R18",
+          "StationName": "明德",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.519585,
+          25.06235
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R13",
+          "StationName": "民權西路",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520074,
+          25.071409
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R14",
+          "StationName": "圓山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520364,
+          25.052621
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R11",
+          "StationName": "中山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.520685,
+          25.057575
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R12",
+          "StationName": "雙連",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522546,
+          25.102718
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R17",
+          "StationName": "芝山",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.524955,
+          25.084201
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R15",
+          "StationName": "劍潭",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52623,
+          25.093492
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R16",
+          "StationName": "士林",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.528766,
+          25.033894
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R07",
+          "StationName": "東門",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:13:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.445805,
+          25.167745
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R28",
+          "StationName": "淡水",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4588,
+          25.15399
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R27",
+          "StationName": "紅樹林",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45955,
+          25.1369
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R26",
+          "StationName": "竹圍",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.467,
+          25.12551
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R25",
+          "StationName": "關渡",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473298,
+          25.130923
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R24",
+          "StationName": "忠義",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.485456,
+          25.137497
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R23",
+          "StationName": "復興崗",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.498648,
+          25.131819
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R22",
+          "StationName": "北投",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50114,
+          25.12547
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R21",
+          "StationName": "奇岩",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.502595,
+          25.136931
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R22A",
+          "StationName": "新北投",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.506234,
+          25.120852
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "R20",
+          "StationName": "唭哩岸",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.527698,
+          24.984333
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y08",
+          "StationName": "十四張",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54134,
+          24.98272
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y07",
+          "StationName": "大坪林",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:14:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.459926,
+          25.061548
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y20",
+          "StationName": "新北產業園區",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.460216,
+          25.050282
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y19",
+          "StationName": "幸福",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.460479,
+          25.039862
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y18",
+          "StationName": "頭前庄",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.464825,
+          25.015156
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y16",
+          "StationName": "板橋",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466839,
+          25.026125
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y17",
+          "StationName": "新埔民生",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.472212,
+          25.014491
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y15",
+          "StationName": "板新",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.484159,
+          25.00841
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y14",
+          "StationName": "中原",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.490461,
+          25.004413
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y13",
+          "StationName": "橋和",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.496052,
+          25.001981
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y12",
+          "StationName": "中和",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.505114,
+          24.99392
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y11",
+          "StationName": "景安",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516553,
+          24.991968
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y10",
+          "StationName": "景平",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.525051,
+          24.990549
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "Y09",
+          "StationName": "秀朗橋",
+          "UpdateDate": "2020-11-05T00:00:00",
+          "CheckDate": "2023-06-27T00:15:00"
+        }
+      }
+    }
+  ]
+}

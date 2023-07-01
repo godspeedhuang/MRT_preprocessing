@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44561,
+          25.05924
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A4",
+          "StationName": "新莊副都心站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:19:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45918,
+          25.06171
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A3",
+          "StationName": "新北產業園區站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:19:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48273,
+          25.0548
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A2",
+          "StationName": "三重站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:19:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51428,
+          25.04869
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A1",
+          "StationName": "台北車站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:19:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21048,
+          25.05595
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A15",
+          "StationName": "大園站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22142,
+          25.07007
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A14a",
+          "StationName": "機場旅館站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.23213,
+          25.07735
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A13",
+          "StationName": "機場第二航廈站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.23783,
+          25.0814
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A12",
+          "StationName": "機場第一航廈站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.26637,
+          25.08646
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A11",
+          "StationName": "坑口站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.28476,
+          25.0808
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A10",
+          "StationName": "山鼻站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36134,
+          25.0658
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A9",
+          "StationName": "林口站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37073,
+          25.06053
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A8",
+          "StationName": "長庚醫院站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38543,
+          25.04124
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A7",
+          "StationName": "體育大學站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42262,
+          25.03321
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A6",
+          "StationName": "泰山貴和站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43943,
+          25.05321
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A5",
+          "StationName": "泰山站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:20:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.20349,
+          25.00199
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A19",
+          "StationName": "桃園體育園區站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:21:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21406,
+          25.01374
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A18",
+          "StationName": "高鐵桃園站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:21:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21556,
+          25.03665
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A16",
+          "StationName": "橫山站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:21:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21627,
+          24.98025
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A20",
+          "StationName": "興南站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:21:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22095,
+          25.02417
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A17",
+          "StationName": "領航站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:21:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22114,
+          24.96722
+        ]
+      },
+      "properties": {
+        "model": {
+          "StationID": "A21",
+          "StationName": "環北站",
+          "UpdateDate": "2022-11-01T00:00:00",
+          "CheckDate": "2023-06-27T00:21:00"
+        }
+      }
+    }
+  ]
+}
